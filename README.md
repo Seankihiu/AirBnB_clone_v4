@@ -156,6 +156,5 @@ No known bugs at this time.
 ## Authors
 Sean Kihiu - [Github](https://github.com/Seankihiu) 
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
